@@ -1,0 +1,2 @@
+Toolathlon mirror isolation probe
+attempt=mirrorcheck_20261123T095017Z_0de7daf01070
